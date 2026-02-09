@@ -53,4 +53,3 @@ Si quieres colaborar o ver demos:
 ---
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Gracias%20por%20visitar%20mi%20perfil%20🚀&fontAlign=50&fontAlignY=50&fontSize=28&color=gradient&fontColor=fff" />
----
