@@ -4,54 +4,51 @@
 </div>
 
 ## 👨‍💻 Sobre mí
-Soy desarrollador con base en **full-stack (Laravel + Tailwind)** evolucionando hacia sistemas más complejos como:
+Desarrollador enfocado en:
 
-- Computer Vision aplicada
-- Automatización de procesos
-- Interfaces interactivas (gestos / visión)
+- 🐍 Automatización con Python
+- 🌐 Desarrollo de aplicaciones web
+- ⚙️ Optimización de procesos repetitivos
 
-Actualmente estoy en transición de proyectos web hacia soluciones más técnicas y experimentales.
+Mi objetivo es convertir tareas manuales en sistemas eficientes y reutilizables.
 
 ---
 
-## 🛠️ Stack actual
+## 🛠️ Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,github,git,linux,windows&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,github,git,linux,windows&perline=8" />
 <br/>
-<img src="https://skillicons.dev/icons?i=sqlite,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=sqlite&perline=8" />
 </div>
 
-**Experiencia práctica en:**
-- Laravel + Tailwind (web apps)
-- Python (automatización, scripts, data handling)
-- Manipulación de datos (`pandas`, `openpyxl`)
+**Trabajo principalmente con:**
+- Python (`pandas`, `openpyxl`, `python-docx`)
+- Desarrollo web (Laravel + Tailwind)
+- Scripts de automatización para manejo de datos
 
 ---
 
-## 🧪 En lo que estoy trabajando ahora
-⚠️ Proyectos en desarrollo (no todos públicos aún)
-
-- Sistema de OCR robusto (tolerante a variaciones reales)
-- Control por gestos con visión (multi-input)
-- Integración con motores gráficos (Unreal / pipelines externos)
-- Evaluación de rendimiento (latencia, precisión)
+## 🧩 Qué hago en la práctica
+- Automatizo generación de reportes (Excel / Word)
+- Desarrollo scripts para procesamiento de datos
+- Creo interfaces web para gestionar información
+- Optimizo flujos de trabajo manuales
 
 ---
 
-## 📌 Enfoque de trabajo
-- Primero: que funcione en condiciones reales (no solo demo)
-- Segundo: modularizar y hacer reusable
-- Tercero: empaquetar para uso práctico
+## 🚧 En desarrollo
+- Automatización más robusta (validaciones + control de errores)
+- Integración entre scripts y aplicaciones web
+- Herramientas reutilizables para procesos repetitivos
 
 ---
 
-## 🚧 Próximos repos (roadmap)
-- [ ] OCR pipeline documentado
-- [ ] Sistema de detección de gestos
-- [ ] Integración Python → Unreal (ejemplo funcional)
+## 📌 Cómo trabajo
+- Primero resuelvo el problema manual
+- Luego lo automatizo
+- Finalmente lo convierto en herramienta reutilizable
 
 ---
 
 ## 📫 Contacto
 - GitHub: https://github.com/JaimePergueza
-- Email: (tu correo)
