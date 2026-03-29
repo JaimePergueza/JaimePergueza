@@ -1,62 +1,92 @@
+<!-- HERO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,3,12&text=Jaime%20Pergueza&fontSize=52&fontColor=fff&animation=fadeIn&desc=Python%20Developer%20%7C%20Computer%20Vision%20%26%20Automation&descSize=18&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2,3,12&text=Hola,%20soy%20Jaime%20👋&fontSize=52&fontColor=fff&animation=fadeIn&desc=Python%20Developer%20%7C%20Computer%20Vision%20%26%20Automation&descSize=19&descAlignY=74" />
+
+<br/>
+
+<a href="https://github.com/TU_USER">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/TU_USER?style=for-the-badge&logo=github&labelColor=0d1117&color=238636">
+</a>
+&nbsp;
+<img alt="Focus" src="https://img.shields.io/badge/Foco-Computer%20Vision%20%26%20Automation-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+&nbsp;
+<img alt="Status" src="https://img.shields.io/badge/Estado-Construyendo%20cosas%20reales-orange?style=for-the-badge">
 
 </div>
 
 ---
 
-## Sobre mí
+## 👤 Sobre mí
 
-Soy desarrollador Python con foco en **visión computacional** y **automatización de procesos**. Me interesa construir sistemas que resuelvan problemas reales: desde procesar documentos físicos hasta controlar hardware con gestos de mano.
+Soy desarrollador Python con foco en **visión computacional** y **automatización de procesos**.  
+Me interesa construir sistemas que resuelvan problemas reales: desde procesar documentos físicos hasta controlar hardware con gestos de mano.
 
-Actualmente aprendiendo y construyendo — cada proyecto es una solución funcional, no un ejercicio de tutorial.
+> Cada proyecto en este perfil es una solución funcional, no un ejercicio de tutorial.
 
 ---
 
-## 🔧 Tecnologías que uso
+## 🛠️ Stack
 
-**Core**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,opencv,html,js,git,github,vscode&perline=7" />
 
-**Librerías frecuentes**
+</div>
 
-`opencv-python` · `mediapipe` · `pandas` · `numpy` · `tkinter`
+<br/>
 
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Librerías frecuentes:**&nbsp; `opencv-python` · `mediapipe` · `pandas` · `numpy` · `AR.js` · `A-Frame`
 
 ---
 
 ## 📂 Proyectos destacados
 
-### 🖐️ [Controles con gestos de mano](https://github.com/TU_USER/Controles-con-gestos-de-mano)
-Sistema de control de pinza robótica mediante detección de gestos en tiempo real con cámara.
-Usa visión computacional para traducir movimientos de mano en comandos de hardware.
+<table>
+<tr>
+<td width="50%">
 
-`Python` · `OpenCV` · `MediaPipe`
+### 🖐️ Controles con gestos de mano
+Sistema que traduce gestos de mano en comandos para control de pinza robótica en tiempo real.
 
----
+**Stack:** Python · OpenCV · MediaPipe  
+🔗 [Ver repositorio](https://github.com/TU_USER/Controles-con-gestos-de-mano)
 
-### 📋 [Digitalización de encuestas](https://github.com/TU_USER/Digitalizacion)
-Pipeline de procesamiento de imagen que digitaliza encuestas físicas automáticamente.
-Detecta, extrae y estructura datos desde documentos escaneados.
+</td>
+<td width="50%">
 
-`Python` · `OpenCV` · `pandas`
+### 📋 Digitalización de encuestas
+Pipeline que digitaliza encuestas físicas automáticamente mediante procesamiento de imagen.
 
----
+### 📋 Digitalización de encuestas
+Pipeline que digitaliza encuestas físicas automáticamente mediante procesamiento de imagen.
 
-### 🌐 [material3d](https://github.com/TU_USER/material3d)
-Experiencia de realidad aumentada construida con AR.js y A-Frame.
-Objetos 3D interactivos sobre marcadores físicos desde el navegador, sin instalación.
+**Stack:** Python · OpenCV · pandas  
+🔗 [Ver repositorio](https://github.com/TU_USER/Digitalizacion)
 
-`HTML` · `AR.js` · `A-Frame`
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 material3d
+Experiencia de realidad aumentada en el navegador con objetos 3D sobre marcadores físicos.
+
+**Stack:** HTML · AR.js · A-Frame  
+🔗 [Ver repositorio](https://github.com/TU_USER/material3d)
+
+</td>
+<td width="50%">
+
+### 💬 asistenteIA
+Chatbot conversacional construido en Python.
+
+**Stack:** Python  
+🔗 [Ver repositorio](https://github.com/TU_USER/asistenteIA)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,23 +94,42 @@ Objetos 3D interactivos sobre marcadores físicos desde el navegador, sin instal
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USER&layout=compact&theme=tokyonight&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USER&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+## 📌 Cómo trabajo
+
+| Fase | Enfoque |
+|------|---------|
+| 🔍 Primero | Que funcione de forma confiable con casos reales y variaciones |
+| 🧱 Luego | Modularizar: detectores, normalización, validación, exportación |
+| 🚀 Finalmente | Empaquetar para que cualquiera lo pueda usar |
+
+---
+
 ## 📫 Contacto
 
-¿Tienes un problema que se pueda resolver con visión computacional o automatización? Escríbeme.
+¿Tienes un problema que se pueda resolver con visión computacional o automatización?
 
-- 📧 tu.correo@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/TU_PERFIL)
+<div align="center">
+
+<a href="mailto:TU_CORREO">
+  <img src="https://img.shields.io/badge/Email-Escribeme-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/TU_PERFIL">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,3,12&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2,3,12&section=footer" />
 </div>
